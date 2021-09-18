@@ -1,5 +1,5 @@
 # Configuring multiple DS18B20 temperature sensors using Arduino
-![](Assets\DS18B20.jpg)
+![](Assets/DS18B20.jpg)
 
 ## DS18B20
 
