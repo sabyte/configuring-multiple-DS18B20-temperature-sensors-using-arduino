@@ -60,8 +60,11 @@ LiquidCrystal_I2C.h
 <!-- USAGE EXAMPLES -->
 
 ## Demonstration
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55%;position:relative;"><iframe width="260" height="143" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5p12wn"></iframe></div><p><a href="https://imgflip.com/gif/5p12wn">via Imgflip</a></p></div>
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5p1350"></iframe></div><p><a href="https://imgflip.com/gif/5p1350">via Imgflip</a></p></div>
+
+https://user-images.githubusercontent.com/69699980/135725033-6f598558-f46e-47fb-9533-a5a73c4ca8fe.mp4
+
+
+https://user-images.githubusercontent.com/69699980/135725041-ab3aef3c-4f99-4d5c-91a7-05e1f53b4bc7.mp4
 
 
 <!-- CONTRIBUTING -->
