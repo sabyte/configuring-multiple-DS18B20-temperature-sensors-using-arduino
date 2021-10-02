@@ -12,21 +12,19 @@ There are so many examples available on the internet but none of them include mo
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The purpose of this project was to monitor the data and save them. To monitor the temperature, DS18B20 was used and the data was saved using a SD card module by connecting it with the mainboard Arduino Mega. So, the list of components goes here:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Arduino Mega (×1)
+* DS18B20 temperature sensor (×16)
+* SD card module (×1)
+* SD card  (×1)
+* 20×4 LCD display with i2c
+* Breadboard (×1)
+* Jumpers (As much as needed)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+### Coding Platform
 
-### Built With
-
-Built with
-
-* [Arduino IDE](https://www.arduino.cc/en/software) and
-* Love :heart:
+* [Arduino IDE](https://www.arduino.cc/en/software) 
 
 <!-- GETTING STARTED -->
 
@@ -60,22 +58,17 @@ LiquidCrystal_I2C.h
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Demonstration
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55%;position:relative;"><iframe width="260" height="143" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5p12wn"></iframe></div><p><a href="https://imgflip.com/gif/5p12wn">via Imgflip</a></p></div>
 
-
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5p1350"></iframe></div><p><a href="https://imgflip.com/gif/5p1350">via Imgflip</a></p></div>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
