@@ -67,6 +67,10 @@ After connecting the sensors, please check their device address using *ds18b20_s
 
 ## Demonstration
 
+https://user-images.githubusercontent.com/69699980/135725033-6f598558-f46e-47fb-9533-a5a73c4ca8fe.mp4
+
+
+https://user-images.githubusercontent.com/69699980/135725041-ab3aef3c-4f99-4d5c-91a7-05e1f53b4bc7.mp4
 
 
 <!-- CONTRIBUTING -->
