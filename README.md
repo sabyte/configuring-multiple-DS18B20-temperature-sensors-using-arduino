@@ -57,6 +57,12 @@ Wire.h
 LiquidCrystal_I2C.h
 ```
 
+## Circuit  Diagram
+
+![](Assets/circuit diagram.jpg)
+
+After connecting the sensors, please check their device address using *ds18b20_serial_code* and make necessary changes in the main code. 
+
 <!-- USAGE EXAMPLES -->
 
 ## Demonstration

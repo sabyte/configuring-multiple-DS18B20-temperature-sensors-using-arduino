@@ -8,7 +8,7 @@
 /* MOSI - pin 51
  ** MISO - pin 50
  ** SCK - pin 52
- ** CS - pin 4 */
+ ** CS - pin 53 */
 
 const int chipSelect = 53;
 
