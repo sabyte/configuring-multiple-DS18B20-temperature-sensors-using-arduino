@@ -59,7 +59,8 @@ LiquidCrystal_I2C.h
 
 ## Circuit  Diagram
 
-![](Assets/circuit diagram.tif)
+![circuit design](https://user-images.githubusercontent.com/69699980/139384417-3d257bc1-9082-4a95-8b4e-49e90292c874.jpg)
+
 
 After connecting the sensors, please check their device address using *ds18b20_serial_code* and make necessary changes in the main code. 
 
